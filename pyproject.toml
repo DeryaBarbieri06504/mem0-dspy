@@ -1,0 +1,5 @@
+[project]
+name = "mem0-dspy"
+version = "0.1.0"
+description = "A minimalist implementation of Agentic Memory architecture is DSPy"
+requires-python = ">=3.10"
